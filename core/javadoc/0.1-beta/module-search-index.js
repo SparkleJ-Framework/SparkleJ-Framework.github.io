@@ -1,0 +1,1 @@
+moduleSearchIndex = [{"l":"net.fokinatorr.sparkle.core"}];updateSearchResults();
